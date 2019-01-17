@@ -1,1 +1,2 @@
 Ny testfil med nytt innhold.
+Enda en linje
